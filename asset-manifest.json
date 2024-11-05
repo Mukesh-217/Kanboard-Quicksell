@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kanboard-Quicksell/static/css/main.6a0c1fe1.css",
+    "main.js": "/Kanboard-Quicksell/static/js/main.a65665ce.js",
+    "static/js/453.f0f88b0d.chunk.js": "/Kanboard-Quicksell/static/js/453.f0f88b0d.chunk.js",
+    "static/media/cancelled.svg": "/Kanboard-Quicksell/static/media/cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/no-priority.svg": "/Kanboard-Quicksell/static/media/no-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "static/media/done.svg": "/Kanboard-Quicksell/static/media/done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "index.html": "/Kanboard-Quicksell/index.html",
+    "static/media/low.svg": "/Kanboard-Quicksell/static/media/low.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/medium.svg": "/Kanboard-Quicksell/static/media/medium.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/high.svg": "/Kanboard-Quicksell/static/media/high.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/in-progress.svg": "/Kanboard-Quicksell/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/urgent.svg": "/Kanboard-Quicksell/static/media/urgent.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/backlog.svg": "/Kanboard-Quicksell/static/media/backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/todo.svg": "/Kanboard-Quicksell/static/media/todo.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.6a0c1fe1.css.map": "/Kanboard-Quicksell/static/css/main.6a0c1fe1.css.map",
+    "main.a65665ce.js.map": "/Kanboard-Quicksell/static/js/main.a65665ce.js.map",
+    "453.f0f88b0d.chunk.js.map": "/Kanboard-Quicksell/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a0c1fe1.css",
+    "static/js/main.a65665ce.js"
+  ]
+}
